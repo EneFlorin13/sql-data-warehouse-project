@@ -74,5 +74,5 @@ I'm passionate about improving my skills, exploring real-world data projects, an
 I'm open to learning from others, sharing what I discover, and collaborating on projects that help me grow as a data enthusiast.
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/florin-ene-277226151/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florin-ene-277226151/)
 
